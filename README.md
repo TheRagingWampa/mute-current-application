@@ -1,7 +1,7 @@
 # mute-current-application
 Autohotkey script to mute the current application by pressing F1. This will ONLY mute the application that is in focus, leaving all background applications still audible.
 
-Forked from kristoffer-tvera/mute-current-application setting F1 to work with all modifiers.
+Forked from [kristoffer-tvera/mute-current-application](https://github.com/kristoffer-tvera/mute-current-application), setting F1 to work with all modifiers.
 
 F1 is no good for you? 
 [Keybinding can be changed here](AHK/mute_current_application.ahk#L4) 
